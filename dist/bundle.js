@@ -49,7 +49,7 @@
             function u(a) {
                 return function(u) {
                     return function(a) {
-                        if (r) throw new TypeError("LỖI! Tool hack đang chạy rùi mà? :");
+                        if (r) throw new TypeError("LỖI! Tool hack đang chạy rồi mà! :");
                         for (; i;) try {
                             if (r = 1, n && (o = 2 & a[0] ? n.return : a[0] ? n.throw || ((o = n.return) && o.call(n), 0) : n.next) && !(o = o.call(n, a[1])).done) return o;
                             switch (n = 0, o && (a = [2 & a[0], o.value]), a[0]) {
