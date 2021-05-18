@@ -105,7 +105,7 @@
         }(this, (function(r) {
             switch (r.label) {
                 case 0:
-                    return console.log("%c \n    Hax Quizizz - Version Tiếng Việt \n ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
+                    return console.log("%c \n Hax Quizizz - Version Tiếng Việt \n Version 0.0.1 \n ", "color: red;"), [4, fetch("https://quizizz.com/api/main/game/" + o())];
                 case 1:
                     return [4, r.sent().json()];
                 case 2:
