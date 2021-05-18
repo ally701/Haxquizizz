@@ -23,7 +23,7 @@
         },
         o = function() {
             var t = document.querySelector("body > div");
-            if (!t) throw new Error("LỖI! Không thể truy xuất đối tượng gốc");
+            if (!t) throw new Error("LỖI! Không thể truy xuất đối tượng gốc!");
             return t.__vue__.$store._vm._data.$$state.game.data.roomHash
         };
     e = function() {
